@@ -6,6 +6,8 @@ description: 'Slides from lecture presentation covering the following topics: Pr
 file: /courses/2-76-multi-scale-system-design-fall-2004/aa9ff60bde0ade850009874224924519_lecture_12.pdf
 file_size: 2597402
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

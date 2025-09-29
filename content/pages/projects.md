@@ -2,6 +2,8 @@
 content_type: page
 description: This section contains instructions for projects and supporting materials
   for them.
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Projects
 ocw_type: CourseSection
@@ -110,26 +112,26 @@ Supporting Materials
 --------------------
 
 1.  a) Pre-amp electronics theory and spec sheets ({{% resource_link f3ee3fc0-14f4-828b-45b2-1bbb44a43e48 "PDF" %}})  
-    b) TI OPA627/637 spec sheet ({{% resource_link "fec892d2-5602-40e2-8fd9-c0bd14814919" "PDF" %}})
+    b) TI OPA627/637 spec sheet ([PDF](http://focus.ti.com/lit/ds/symlink/opa627.pdf))
 2.  Capacitance probe theory primer
 3.  Capacitance probe spec sheets  
     Manufacturer: Lion precision  
     Model number: C1-C
 4.  dSpace data acquisition and control system  
-    Manufacturer: {{% resource_link "a85f73b1-6438-408c-9754-5f4e3c37c48f" "dSpace" %}}  
+    Manufacturer: [dSpace](http://www.dspace.de/)  
     Model Number: DS1104 R&D Controller Board
-5.  {{% resource_link "999f617e-352b-4716-89e4-86e640dcf3dd" "Piezo actuator primer" %}}
+5.  [Piezo actuator primer](https://www.pi-usa.us/en/products/piezo-actuators-stacks-benders-tubes/)
 6.  Z Axis Piezo actuator specs  
-    Manufacturer: PI ({{% resource_link "d13a1484-2bb8-4a07-830f-c3aca49c360d" "Physik Instrumente" %}})  
+    Manufacturer: PI ([Physik Instrumente](https://www.physikinstrumente.com/en/))  
     Model number: P-882.11
 7.  X and Y Axis Piezo actuator specs  
-    Manufacturer: {{% resource_link "35cca21d-3e98-4627-a0c1-445eb3bc9ab1" "Piezojena" %}}  
+    Manufacturer: [Piezojena](http://www.piezojena.com/)  
     Model number: PA 50/14 SG
 8.  How to make DXF files (Waterjet accepts DXF files made from CAD program) ({{% resource_link dd58f581-d63e-fae4-43c1-349f5ce2cd38 "PDF" %}})
 9.  Dynamic characteristics of environment (large table) ({{% resource_link 87dccec0-d5e4-f270-d585-47356ac82c7b "PDF" %}})
 10.  Thermal characteristics of environment (small table) ({{% resource_link 6d8a5dc5-d37b-f611-4d07-3b4d8fe6f792 "JPG" %}})
 11.  Shielded cables (where to buy and how to make)  
-    Manufacturer: {{% resource_link "5565712e-0c2f-4569-8d03-db40c0c4161a" "Alpha Wire" %}}  
+    Manufacturer: [Alpha Wire](http://www.alphawire.com/)  
     Type: Coaxial cables 
 12.  Information on tips to be used  
     Supplier: Veeco Probes  
@@ -137,5 +139,5 @@ Supporting Materials
     Dimensions: diameter (0.25mm), length (8mm)
 13.  Information on samples to be used  
     Supplier: Veeco Probes  
-    Material: {{% resource_link "148699c4-3c80-463c-a5a0-88e1b41c4d91" "HOPG (Highly Ordered Pyrolytic Graphite)" %}}
-14.  Optical Tables. See {{% resource_link "59ef2e8e-edbe-489a-a84b-62a96518f8e6" "Technical Manufacturing Company" %}} Web site
+    Material: [HOPG (Highly Ordered Pyrolytic Graphite)](https://www.2spi.com/category/hopg/)
+14.  Optical Tables. See [Technical Manufacturing Company](http://www.techmfg.com/) Web site

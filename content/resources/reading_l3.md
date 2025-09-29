@@ -5,6 +5,8 @@ description: Assigned reading from Hale, Layton C. "Principles and techniques fo
 file: /courses/2-76-multi-scale-system-design-fall-2004/3aa5862a1724b75c3e4aa7a6fee6c511_reading_l3.pdf
 file_size: 1365116
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Readings
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

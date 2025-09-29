@@ -5,6 +5,8 @@ description: Tutorial on designing a preamplifier with circuit diagrams and samp
 file: /courses/2-76-multi-scale-system-design-fall-2004/f3ee3fc014f4828b45b21bbb44a43e48_preamplifier.pdf
 file_size: 111287
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Projects
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

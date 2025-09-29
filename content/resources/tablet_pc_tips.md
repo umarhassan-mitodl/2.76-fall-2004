@@ -4,6 +4,8 @@ description: Computer tutorial.
 file: /courses/2-76-multi-scale-system-design-fall-2004/383082d16a73c95b3c99dd7c41dd7493_tablet_pc_tips.pdf
 file_size: 193815
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Tools
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
