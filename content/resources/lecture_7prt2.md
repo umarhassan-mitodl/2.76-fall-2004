@@ -5,8 +5,6 @@ description: 'Slides from lecture presentation covering the following topics: Pi
 file: /courses/2-76-multi-scale-system-design-fall-2004/ecd2810729436f945d2879a2c8c5ee95_lecture_7prt2.pdf
 file_size: 2477067
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

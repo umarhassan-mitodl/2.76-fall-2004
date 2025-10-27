@@ -4,8 +4,6 @@ description: ''
 file: /courses/2-76-multi-scale-system-design-fall-2004/170f8a25f03e3c080917fe2fcc162ad1_lecture_7.pdf
 file_size: 5017871
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

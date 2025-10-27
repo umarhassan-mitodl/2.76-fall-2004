@@ -5,8 +5,6 @@ description: Supporting material designed to help the student in completing the 
 file: /courses/2-76-multi-scale-system-design-fall-2004/87dccec0d5e4f270d58547356ac82c7b_dynchar_floorvib.pdf
 file_size: 65558
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Projects
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

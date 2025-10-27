@@ -2,8 +2,6 @@
 content_type: page
 description: This section contains information about the tools used throughout the
   course.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Tools
 ocw_type: CourseSection
@@ -21,4 +19,4 @@ Hints and Tips document ({{% resource_link 383082d1-6a73-c95b-3c99-dd7c41dd7493 
 CoMeT
 -----
 
-CoMeT is being disseminated through the MIT iCampus Outreach program. See [CoMeT: The Compliant Mechanism Tool](http://icampus.mit.edu/CoMeT/) for information, downloads and manuals.
+CoMeT is being disseminated through the MIT iCampus Outreach program. See {{% resource_link "ba191030-be72-4821-b217-4d4639152d2c" "CoMeT: The Compliant Mechanism Tool" %}} for information, downloads and manuals.

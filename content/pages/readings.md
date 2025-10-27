@@ -1,8 +1,6 @@
 ---
 content_type: page
 description: This section contains the citations and reading materials.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -100,7 +98,7 @@ Kinematic Error Modeling of Rigid-flexible Systems
 Nominal and Probabilitic System Error Modeling
 {{< tdclose >}}
 {{< tdopen >}}
-Prepost, R. "Scanning Tunneling Microscope." Notes for Physics 407 Advanced Laboratory, University of Wisconsin, April 26 2000, pp. 1-14 ([PDF](http://www.hep.wisc.edu/~prepost/407/istm/istm.pdf))
+Prepost, R. "Scanning Tunneling Microscope." Notes for Physics 407 Advanced Laboratory, University of Wisconsin, April 26 2000, pp. 1-14 ({{% resource_link "1cef98be-8888-4f03-aa4b-dc12cb14feb0" "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}

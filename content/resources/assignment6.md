@@ -9,8 +9,6 @@ description: Problem set 6 of the term project. Each problem set of the term pro
 file: /courses/2-76-multi-scale-system-design-fall-2004/d738da1cda15e22f18aac482c6024aad_assignment6.pdf
 file_size: 123206
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
